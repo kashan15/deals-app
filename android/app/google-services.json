@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642370242936",
+    "project_id": "dealsappotp",
+    "storage_bucket": "dealsappotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642370242936:android:79ac82c147bc0081b1a08d",
+        "android_client_info": {
+          "package_name": "com.example.deals_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642370242936-i7hb0hrtcoe1nocid48d0rivs82o6bmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKV2FcN0bqF0-pluoZl6VTWtK1mDvpcOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642370242936-i7hb0hrtcoe1nocid48d0rivs82o6bmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
