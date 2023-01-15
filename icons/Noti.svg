@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Noti" transform="translate(-302 -67)">
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="36" height="36" rx="10" transform="translate(302 67)" fill="#fff"/>
+    <g id="vuesax_linear_notification-bing" data-name="vuesax/linear/notification-bing" transform="translate(310 75)">
+      <g id="notification-bing" transform="translate(0 0)">
+        <path id="Vector" d="M0,0V2.775" transform="translate(10 5.367)" fill="none" stroke="#1d2733" stroke-linecap="round" stroke-width="1.25"/>
+        <path id="Vector-2" data-name="Vector" d="M7.431,0a5.548,5.548,0,0,0-5.55,5.55V7.3a4.327,4.327,0,0,1-.525,1.9L.3,10.967a1.777,1.777,0,0,0,1,2.708,19.45,19.45,0,0,0,12.275,0,1.85,1.85,0,0,0,1-2.708L13.514,9.2a4.358,4.358,0,0,1-.525-1.9V5.55A5.582,5.582,0,0,0,7.431,0Z" transform="translate(2.586 1.667)" fill="none" stroke="#1d2733" stroke-linecap="round" stroke-width="1.25"/>
+        <path id="Vector-3" data-name="Vector" d="M5.55,0A2.785,2.785,0,0,1,2.775,2.775,2.78,2.78,0,0,1,.817,1.958,2.78,2.78,0,0,1,0,0" transform="translate(7.225 15.683)" fill="none" stroke="#1d2733" stroke-width="1.25"/>
+        <path id="Vector-4" data-name="Vector" d="M0,0H20V20H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

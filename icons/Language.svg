@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Language" transform="translate(-239 -67)">
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="36" height="36" rx="10" transform="translate(239 67)" fill="#fff"/>
+    <g id="vuesax_linear_trend-up" data-name="vuesax/linear/trend-up" transform="translate(-373 -113)">
+      <g id="trend-up" transform="translate(620 188)">
+        <path id="Vector" d="M7.5,0,4,3.5l-1.333-2L0,4.167" transform="translate(6.25 7.917)" fill="none" stroke="#1d2733" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0H1.667V1.667" transform="translate(12.083 7.917)" fill="none" stroke="#1d2733" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+        <path id="Vector-3" data-name="Vector" d="M5.833,16.667h5c4.167,0,5.833-1.667,5.833-5.833v-5C16.667,1.667,15,0,10.833,0h-5C1.667,0,0,1.667,0,5.833v5C0,15,1.667,16.667,5.833,16.667Z" transform="translate(1.667 1.667)" fill="none" stroke="#1d2733" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+        <path id="Vector-4" data-name="Vector" d="M0,0H20V20H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

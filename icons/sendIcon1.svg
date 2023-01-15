@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.957" y1="0.168" x2="0.028" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b56efd"/>
+      <stop offset="0.256" stop-color="#a67afd"/>
+      <stop offset="0.746" stop-color="#7f9bfe"/>
+      <stop offset="0.984" stop-color="#6aaeff"/>
+    </linearGradient>
+    <filter id="Ellipse_3352" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#6416b2" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_57125" data-name="Group 57125" transform="translate(-285 -2627)">
+    <g transform="matrix(1, 0, 0, 1, 285, 2627)" filter="url(#Ellipse_3352)">
+      <circle id="Ellipse_3352-2" data-name="Ellipse 3352" cx="30" cy="30" r="30" transform="translate(30 22)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Union_12" data-name="Union 12" d="M-10678.648,1573.861a1.185,1.185,0,0,1-.625-1.043v-3.665a5.919,5.919,0,0,1-4.728-5.789v-9.454a5.918,5.918,0,0,1,5.91-5.91h14.182a5.917,5.917,0,0,1,5.909,5.91v9.454a5.917,5.917,0,0,1-5.909,5.91h-6.733l-6.794,4.529a1.179,1.179,0,0,1-.654.2A1.176,1.176,0,0,1-10678.648,1573.861Zm-2.987-19.952v9.454a3.549,3.549,0,0,0,3.545,3.545,1.185,1.185,0,0,1,1.183,1.182v2.518l5.253-3.5a1.075,1.075,0,0,1,.318-.15,1.193,1.193,0,0,1,.338-.048h7.09a3.549,3.549,0,0,0,3.545-3.545v-9.454a3.549,3.549,0,0,0-3.545-3.545h-14.182A3.549,3.549,0,0,0-10681.636,1553.909Zm5.907,8.272a1.183,1.183,0,0,1-1.183-1.182,1.182,1.182,0,0,1,1.183-1.18h9.454a1.18,1.18,0,0,1,1.183,1.18,1.181,1.181,0,0,1-1.183,1.182Zm-2.362-4.727a1.183,1.183,0,0,1-1.183-1.182,1.182,1.182,0,0,1,1.183-1.18h14.182a1.182,1.182,0,0,1,1.183,1.18,1.183,1.183,0,0,1-1.183,1.182Z" transform="translate(11016 1118.001)" fill="#fff"/>
+  </g>
+</svg>
